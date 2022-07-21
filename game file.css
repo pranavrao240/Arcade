@@ -4,7 +4,7 @@ body{
 }
 .head{
     background-color: aqua;
-    
+    align-items:center;
     color: black;
     box-shadow: 2px 2px 2px 2px black;
     border-color: black;
